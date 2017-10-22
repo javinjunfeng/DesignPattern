@@ -7,7 +7,7 @@ package com.javinjunfeng.singleton;
  */
 
 /**
- * 登记式/静态内部类
+ * 单例模式：登记式/静态内部类
  */
 class Singleton5 {
 
